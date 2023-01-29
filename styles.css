@@ -1,0 +1,16 @@
+
+.pop_up {
+    display: none;  
+    width: 179px; 
+    height: 200px; 
+    background-color: blueviolet; 
+}
+.input {
+    width: 176px;
+    border-width: 2px; 
+    border-radius: 5px 5px 0 0; 
+    display: inline-block; 
+    padding: 0; border-width: 2px; 
+    border-color: black; 
+
+}
